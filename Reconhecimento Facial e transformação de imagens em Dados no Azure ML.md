@@ -24,7 +24,9 @@ Agora, vamos nos conectar em outro portal do Azure para iniciarmos os procedimen
 2. Logue com a mesma conta que você criou o recurso no portal do Azure.
 	
 3. Com o Vision Studio aberto, clique em **View all resources** abaixo do cabeçalho **Getting started with Vision**.
-![[vision-resources.png]]
+
+![View All Resources](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/vision-resources.png?raw=true)
+
 4. Com a página dos recursos aberta, selecione o recurso que foi criado anteriormente e clique em **Select as default resource**.
 ![[Pasted image 20240430023722.png]]
 5. Volte para a página anterior e selecione a aba **Face** e clique em **Detect Faces in an image**.
