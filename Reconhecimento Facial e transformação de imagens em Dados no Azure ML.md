@@ -28,7 +28,9 @@ Agora, vamos nos conectar em outro portal do Azure para iniciarmos os procedimen
 ![View All Resources](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/vision-resources.png?raw=true)
 
 4. Com a página dos recursos aberta, selecione o recurso que foi criado anteriormente e clique em **Select as default resource**.
-![[Pasted image 20240430023722.png]]
+
+![Resource(s) to work with](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/Vision-AI-Studio.png?raw=true)
+
 5. Volte para a página anterior e selecione a aba **Face** e clique em **Detect Faces in an image**.
     
 6. Selecione a opção **Browse for a file** e selecione uma imagem de preferência. O resultado (dependendo da imagem) será igual ao abaixo:
