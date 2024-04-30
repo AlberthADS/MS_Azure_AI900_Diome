@@ -30,7 +30,9 @@ Agora, vamos nos conectar em outro portal do Azure para iniciarmos os procedimen
 5. Volte para a página anterior e selecione a aba **Face** e clique em **Detect Faces in an image**.
     
 6. Selecione a opção **Browse for a file** e selecione uma imagem de preferência. O resultado (dependendo da imagem) será igual ao abaixo:
-![[face_recognition.png]]
+
+![Junior Siqueira](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/C1LJ8K6XgAAImFu.jpg%20large.jpg?raw=true)
+
 ```JSON
 [
     {
