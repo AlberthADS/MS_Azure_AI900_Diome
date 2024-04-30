@@ -1,0 +1,19 @@
+[
+    {
+        "a man in a garment playing a guitar"
+    },
+    {
+        "apim-request-id": "a51503e3-91b5-46f9-840e-42d5d83bfe4e",
+        "content-length": "162",
+        "content-type": "application/json; charset=utf-8",
+        "modelVersion": "2023-10-01",
+        "captionResult": {
+            "text": "a man in a garment playing a guitar",
+            "confidence": 0.8545867800712585
+        },
+        "metadata": {
+            "width": 450,
+            "height": 600
+        }
+    }
+]
