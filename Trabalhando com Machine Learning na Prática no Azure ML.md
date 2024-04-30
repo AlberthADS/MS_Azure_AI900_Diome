@@ -1,4 +1,4 @@
-## 1. ## Use automated machine learning to train a model
+## 1. Use automated machine learning to train a model
 
 - No [Azure Machine Learning studio](https://ml.azure.com?azure-portal=true), clicar na opção **Automated ML** (dentro da guia **Authoring**).
     
