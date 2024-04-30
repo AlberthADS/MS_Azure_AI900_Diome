@@ -143,4 +143,4 @@ Vamos agora testar o nosso serviço implementado.
 ```
 4. O resultado será apresentado igual a imagem abaixo:
 
-![[MS_Azure_AI900_Diome/prediction_result.png]]
+[https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/prediction_result.png](https://raw.githubusercontent.com/AlberthADS/MS_Azure_AI900_Diome/main/prediction_result.png)
