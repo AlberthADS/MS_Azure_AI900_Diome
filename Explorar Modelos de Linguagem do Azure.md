@@ -22,11 +22,10 @@ O **Azure AI Speech** é um recurso que transcreve falas em áudio para texto em
 - Dentro deste repositório, baixe o áudio na pasta Inputs caso não tenha nenhum disponível.
     
 - Em **Get started with Speech**, abaixo do _Speech to text_, encontre _Real-time speech to text_. Selecione **Try out Real-time speech to text**.
-
-![Testar fala para texto](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/try-out-speech-to-text.png?raw=true)
+  ![Testar fala para texto](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/try-out-speech-to-text.png?raw=true)
 
 - Sobre o _Choose audio files_, selecione **Browse files** e carregue o arquivo **WeAreGonna.m4a** ou algum outro de preferência.
-![Use com os seus recursos](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/use-with-your-resource.png?raw=true)
+  ![Use com os seus recursos](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/use-with-your-resource.png?raw=true)
 
 ## 3. Analisando texto com o Language Studio
 
@@ -73,9 +72,8 @@ We went to order from the menu too and there wasn't that option, I was a little 
 - Confirme a caixa que está ciente que a _demo_ irá incluir usos que podem gerar custos e então selecione **Run**.
     
 - Reveja a saída (_output_) e note que foi gerado um relatório sobre o comportamento do cliente com relação a pizzaria:
-	
-![Analise de texto](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/text-analyze1.png?raw=true)
-![Analise de texto 2](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/text-analyze2.png?raw=true)
+  ![Analise de texto](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/text-analyze1.png?raw=true)
+  ![Analise de texto 2](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/text-analyze2.png?raw=true)
 	
 ```JSON
 {
