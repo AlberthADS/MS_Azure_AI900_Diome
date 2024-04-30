@@ -172,7 +172,7 @@ Agora vamos realizar a extração de textos dentro de imagens com o **Vision AI 
 1. Volte para a página anterior, selecione a aba **Opticam Character Recognition**.
     
 2. Clique novamente em **Browse for a File** para carregar uma imagem e aguarde até o sistema terminar. Uma mensagem similar a abaixo será apresentada:
-![[optical_image_recognition.png]]
+[Diga não as drogas](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/img-22.jpg?raw=true)
 
 ```JSON
 [
