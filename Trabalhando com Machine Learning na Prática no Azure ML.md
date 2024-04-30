@@ -143,4 +143,4 @@ Vamos agora testar o nosso serviço implementado.
 ```
 4. O resultado será apresentado igual a imagem abaixo:
 
-![[Pasted image 20240430004711.png]]
+![[MS_Azure_AI900_Diome/prediction_result.png]]
