@@ -644,7 +644,7 @@ Volte para a página anterior, selecione a aba **Image Analysis** e selecione a 
     
 2. Clique novamente em **Browse for a File** para carregar uma imagem e aguarde até o sistema terminar. Uma mensagem similar a abaixo será apresentada:
 
-![[image_captioning.png]]
+![Homem-aranha no violão](https://github.com/AlberthADS/MS_Azure_AI900_Diome/blob/main/Inputs/6-1.jpg?raw=true)
 
 ```JSON
 [
