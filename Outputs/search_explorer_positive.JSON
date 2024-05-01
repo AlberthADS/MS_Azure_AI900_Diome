@@ -1,0 +1,266 @@
+{
+    "@odata.context": "https://etecazurecogsearch.search.windows.net/indexes('pizzaria-index')/$metadata#docs(*)",
+    "@odata.count": 4,
+    "value": [
+      {
+        "@search.score": 0.6931472,
+        "content": "\nReview:  Pizzeria Wait a minute, it's been in the city of Tiradentes for 25 years, bringing its quality pizzas, Yakisoba and excellent service!\nEstablishment: Pizzeria Espere Um Pouco \nDate: March 10, 2023.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ldGVjYXp1cmVzdG9yYWdlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9waXp6YXJpYXJldmlld3MvUmV2aWV3My5kb2N40",
+        "locations": [
+          "Tiradentes",
+          "Pizzeria",
+          "Cidade Tiradentes",
+          "Sao Paulo"
+        ],
+        "keyphrases": [
+          "quality pizzas",
+          "excellent service",
+          "Pouco Date",
+          "Sao Paulo",
+          "Cidade Tiradentes",
+          "Review",
+          "Pizzeria",
+          "city",
+          "25 years",
+          "Yakisoba",
+          "Establishment",
+          "March",
+          "Location"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\nReview:  Pizzeria Wait a minute, it's been in the city of Tiradentes for 25 years, bringing its quality pizzas, Yakisoba and excellent service!\nEstablishment: Pizzeria Espere Um Pouco \nDate: March 10, 2023.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n  \n\n\n",
+        "text": [
+          ""
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}"
+        ],
+        "imageTags": [
+          "food",
+          "fast food",
+          "pizza",
+          "dish",
+          "italian food",
+          "cuisine",
+          "pizza cheese",
+          "flatbread",
+          "california-style pizza",
+          "baked goods",
+          "recipe",
+          "indoor",
+          "toppings",
+          "cheese"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"food\",\"plate\",\"indoor\",\"dish\",\"cheese\",\"pizza\",\"toppings\",\"tomato\",\"snack food\",\"fresh\"],\"captions\":[{\"text\":\"a pizza with onions and peppers\",\"confidence\":0.3776470422744751}]}"
+        ]
+      },
+      {
+        "@search.score": 0.2876821,
+        "content": "\nReview:  Today was the first day I ordered from Big Pam pizzeria and it surprised me in every way. Very good pizza, with stuffed edges, pitted olives (you don't find this in other pizzerias) and the cheese gratin makes all the difference to the eyes.\nPizza man is to be congratulated... Not just him but everyone, from the very polite attendant, to the motorcycle courier who, if I remember correctly, I think Robson, good humored and good people.\nWell, congratulations and always continue like this. I have become a loyal customer!!!\nEstablishment: Pizzeria Big Pizza \nDate: October  20, 2019.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ldGVjYXp1cmVzdG9yYWdlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9waXp6YXJpYXJldmlld3MvUmV2aWV3NC5kb2N40",
+        "locations": [
+          "Big Pam pizzeria",
+          "pizzerias",
+          "Cidade Tiradentes",
+          "Sao Paulo"
+        ],
+        "keyphrases": [
+          "Pizzeria Big Pizza Date",
+          "Big Pam pizzeria",
+          "Pizza Delivery Oba",
+          "good pizza",
+          "Pizza man",
+          "first day",
+          "other pizzerias",
+          "cheese gratin",
+          "polite attendant",
+          "motorcycle courier",
+          "good people",
+          "loyal customer",
+          "Cidade Tiradentes",
+          "Sao Paulo",
+          "ZZA MIOLAVEL",
+          "Review",
+          "way",
+          "edges",
+          "olives",
+          "difference",
+          "eyes",
+          "everyone",
+          "Robson",
+          "congratulations",
+          "Establishment",
+          "October",
+          "Location",
+          "plr",
+          "LACRE"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\nReview:  Today was the first day I ordered from Big Pam pizzeria and it surprised me in every way. Very good pizza, with stuffed edges, pitted olives (you don't find this in other pizzerias) and the cheese gratin makes all the difference to the eyes.\nPizza man is to be congratulated... Not just him but everyone, from the very polite attendant, to the motorcycle courier who, if I remember correctly, I think Robson, good humored and good people.\nWell, congratulations and always continue like this. I have become a loyal customer!!!\nEstablishment: Pizzeria Big Pizza \nDate: October  20, 2019.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n Pizza Delivery Oba, a plr LACRE IN ZZA MIOLAVEL \n\n\n",
+        "text": [
+          "Pizza Delivery Oba, a plr LACRE IN ZZA MIOLAVEL"
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"Pizza Delivery Oba, a plr LACRE IN ZZA MIOLAVEL\",\"lines\":[{\"boundingBox\":[{\"x\":217,\"y\":18},{\"x\":422,\"y\":35},{\"x\":420,\"y\":77},{\"x\":214,\"y\":67}],\"text\":\"Pizza\"},{\"boundingBox\":[{\"x\":333,\"y\":74},{\"x\":447,\"y\":79},{\"x\":446,\"y\":98},{\"x\":333,\"y\":94}],\"text\":\"Delivery\"},{\"boundingBox\":[{\"x\":307,\"y\":279},{\"x\":311,\"y\":321},{\"x\":303,\"y\":321},{\"x\":301,\"y\":279}],\"text\":\"Oba, a plr\"},{\"boundingBox\":[{\"x\":320,\"y\":288},{\"x\":322,\"y\":320},{\"x\":316,\"y\":320},{\"x\":314,\"y\":288}],\"text\":\"LACRE IN\"},{\"boundingBox\":[{\"x\":325,\"y\":290},{\"x\":390,\"y\":293},{\"x\":390,\"y\":317},{\"x\":324,\"y\":315}],\"text\":\"ZZA\"},{\"boundingBox\":[{\"x\":286,\"y\":321},{\"x\":282,\"y\":287},{\"x\":288,\"y\":286},{\"x\":292,\"y\":321}],\"text\":\"MIOLAVEL\"}],\"words\":[{\"boundingBox\":[{\"x\":221,\"y\":19},{\"x\":408,\"y\":39},{\"x\":407,\"y\":76},{\"x\":216,\"y\":66}],\"text\":\"Pizza\"},{\"boundingBox\":[{\"x\":334,\"y\":75},{\"x\":440,\"y\":80},{\"x\":440,\"y\":98},{\"x\":333,\"y\":95}],\"text\":\"Delivery\"},{\"boundingBox\":[{\"x\":308,\"y\":280},{\"x\":308,\"y\":297},{\"x\":302,\"y\":298},{\"x\":301,\"y\":280}],\"text\":\"Oba,\"},{\"boundingBox\":[{\"x\":309,\"y\":299},{\"x\":309,\"y\":303},{\"x\":302,\"y\":303},{\"x\":302,\"y\":299}],\"text\":\"a\"},{\"boundingBox\":[{\"x\":309,\"y\":305},{\"x\":311,\"y\":317},{\"x\":303,\"y\":318},{\"x\":302,\"y\":305}],\"text\":\"plr\"},{\"boundingBox\":[{\"x\":320,\"y\":288},{\"x\":322,\"y\":309},{\"x\":316,\"y\":310},{\"x\":314,\"y\":289}],\"text\":\"LACRE\"},{\"boundingBox\":[{\"x\":322,\"y\":311},{\"x\":322,\"y\":317},{\"x\":317,\"y\":318},{\"x\":316,\"y\":312}],\"text\":\"IN\"},{\"boundingBox\":[{\"x\":325,\"y\":290},{\"x\":383,\"y\":292},{\"x\":382,\"y\":317},{\"x\":324,\"y\":314}],\"text\":\"ZZA\"},{\"boundingBox\":[{\"x\":287,\"y\":321},{\"x\":283,\"y\":289},{\"x\":289,\"y\":288},{\"x\":292,\"y\":320}],\"text\":\"MIOLAVEL\"}]}"
+        ],
+        "imageTags": [
+          "food",
+          "fast food",
+          "baked goods",
+          "dish",
+          "cuisine",
+          "meal",
+          "italian food",
+          "indoor",
+          "pizza"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"food\",\"box\",\"dish\",\"different\"],\"captions\":[{\"text\":\"a pizza in a box\",\"confidence\":0.50509041547775269}]}"
+        ]
+      },
+      {
+        "@search.score": 0.18232156,
+        "content": "\n\nReview:  In my opinion, the best pizza, the best burger and the best potatoes in the region. Excellent quality ingredients, only top quality products. Service out of 10 and despite demand, delivery doesn't take long. Congratulations!\nEstablishment: Pizzeria iFome\nDate: February 23, 2023.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n\n\n\nimage2.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ldGVjYXp1cmVzdG9yYWdlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9waXp6YXJpYXJldmlld3MvUmV2aWV3Mi5kb2N40",
+        "locations": [
+          "Pizzeria iFome",
+          "Cidade Tiradentes",
+          "Sao Paulo"
+        ],
+        "keyphrases": [
+          "Excellent quality ingredients",
+          "top quality products",
+          "Pizzeria iFome Date",
+          "best pizza",
+          "best burger",
+          "best potatoes",
+          "Cidade Tiradentes",
+          "Sao Paulo",
+          "Review",
+          "opinion",
+          "region",
+          "Service",
+          "demand",
+          "delivery",
+          "Congratulations",
+          "Establishment",
+          "February",
+          "Location"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\n\nReview:  In my opinion, the best pizza, the best burger and the best potatoes in the region. Excellent quality ingredients, only top quality products. Service out of 10 and despite demand, delivery doesn't take long. Congratulations!\nEstablishment: Pizzeria iFome\nDate: February 23, 2023.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n  \n\n\nimage2.png\n  \n\n\n",
+        "text": [
+          "",
+          ""
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}",
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}"
+        ],
+        "imageTags": [
+          "food",
+          "fast food",
+          "burger",
+          "american food",
+          "hamburger",
+          "sandwich",
+          "bun",
+          "patty",
+          "cheeseburger",
+          "buffalo burger",
+          "vegetable",
+          "slider",
+          "cemita",
+          "jucy lucy",
+          "breakfast sandwich",
+          "junk food",
+          "american cheese",
+          "indoor",
+          "yellow",
+          "food",
+          "fast food",
+          "american food",
+          "burger",
+          "hamburger",
+          "sandwich",
+          "bun",
+          "drink",
+          "patty",
+          "cheeseburger",
+          "buffalo burger",
+          "vegetable",
+          "breakfast sandwich",
+          "junk food",
+          "jucy lucy",
+          "slider",
+          "cemita",
+          "meal",
+          "american cheese",
+          "bread",
+          "chivito",
+          "burger king premium burgers",
+          "juice",
+          "indoor"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"food\",\"snack food\",\"sandwich\",\"bun\",\"toppings\",\"tomato\",\"meat\"],\"captions\":[{\"text\":\"a sandwich with lettuce and tomato\",\"confidence\":0.39060258865356445}]}",
+          "{\"tags\":[\"food\",\"snack food\",\"bun\",\"sandwich\",\"meat\",\"meal\"],\"captions\":[{\"text\":\"a sandwich with lettuce and tomato\",\"confidence\":0.42499968409538269}]}"
+        ]
+      },
+      {
+        "@search.score": 0.18232156,
+        "content": "\nReview:  The best in quality service and speed in the end, they are good at what they do, I wouldn't trade it for anything.\nEstablishment: Pizzeria Ostentacao\nDate: May 20, 2022.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ldGVjYXp1cmVzdG9yYWdlLmJsb2IuY29yZS53aW5kb3dzLm5ldC9waXp6YXJpYXJldmlld3MvUmV2aWV3Ny5kb2N40",
+        "locations": [
+          "Pizzeria Ostentacao",
+          "Cidade Tiradentes",
+          "Sao Paulo"
+        ],
+        "keyphrases": [
+          "SABOR ORIGINAL CAS DOCES EMBALAGEM ECONÓMICA",
+          "Pizzeria Ostentacao Date",
+          "quality service",
+          "Cidade Tiradentes",
+          "Sao Paulo",
+          "Ostentação",
+          "pizzari lada",
+          "Review",
+          "speed",
+          "end",
+          "Establishment",
+          "May",
+          "Location",
+          "Pizzaria",
+          "Ostentar",
+          "Delivery",
+          "Coca-Col",
+          "CALZONES"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\nReview:  The best in quality service and speed in the end, they are good at what they do, I wouldn't trade it for anything.\nEstablishment: Pizzeria Ostentacao\nDate: May 20, 2022.\nLocation: Cidade Tiradentes, Sao Paulo.\nimage1.png\n Pizzaria 88-5090 Ostentação Ostentar é se alimentar b ő @pizzari lada m Delivery ® 2788-5090 Coca-Col 993002-7489 CALZONES E SABOR ORIGINAL CAS DOCES EMBALAGEM ECONÓMICA \n\n\n",
+        "text": [
+          "Pizzaria 88-5090 Ostentação Ostentar é se alimentar b ő @pizzari lada m Delivery ® 2788-5090 Coca-Col 993002-7489 CALZONES E SABOR ORIGINAL CAS DOCES EMBALAGEM ECONÓMICA"
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"Pizzaria 88-5090 Ostentação Ostentar é se alimentar b ő @pizzari lada m Delivery ® 2788-5090 Coca-Col 993002-7489 CALZONES E SABOR ORIGINAL CAS DOCES EMBALAGEM ECONÓMICA\",\"lines\":[{\"boundingBox\":[{\"x\":303,\"y\":21},{\"x\":394,\"y\":58},{\"x\":383,\"y\":85},{\"x\":292,\"y\":47}],\"text\":\"Pizzaria\"},{\"boundingBox\":[{\"x\":510,\"y\":134},{\"x\":486,\"y\":75},{\"x\":495,\"y\":71},{\"x\":519,\"y\":130}],\"text\":\"88-5090\"},{\"boundingBox\":[{\"x\":281,\"y\":46},{\"x\":407,\"y\":100},{\"x\":396,\"y\":125},{\"x\":270,\"y\":71}],\"text\":\"Ostentação\"},{\"boundingBox\":[{\"x\":276,\"y\":92},{\"x\":481,\"y\":180},{\"x\":471,\"y\":203},{\"x\":267,\"y\":113}],\"text\":\"Ostentar é se alimentar b\"},{\"boundingBox\":[{\"x\":391,\"y\":202},{\"x\":440,\"y\":225},{\"x\":434,\"y\":237},{\"x\":386,\"y\":213}],\"text\":\"ő @pizzari\"},{\"boundingBox\":[{\"x\":408,\"y\":232},{\"x\":429,\"y\":244},{\"x\":425,\"y\":251},{\"x\":405,\"y\":239}],\"text\":\"lada m\"},{\"boundingBox\":[{\"x\":342,\"y\":278},{\"x\":384,\"y\":295},{\"x\":379,\"y\":309},{\"x\":337,\"y\":292}],\"text\":\"Delivery\"},{\"boundingBox\":[{\"x\":272,\"y\":256},{\"x\":402,\"y\":326},{\"x\":392,\"y\":344},{\"x\":263,\"y\":273}],\"text\":\"® 2788-5090\"},{\"boundingBox\":[{\"x\":423,\"y\":313},{\"x\":543,\"y\":341},{\"x\":530,\"y\":390},{\"x\":408,\"y\":357}],\"text\":\"Coca-Col\"},{\"boundingBox\":[{\"x\":270,\"y\":281},{\"x\":393,\"y\":348},{\"x\":383,\"y\":366},{\"x\":260,\"y\":298}],\"text\":\"993002-7489\"},{\"boundingBox\":[{\"x\":318,\"y\":332},{\"x\":365,\"y\":360},{\"x\":360,\"y\":369},{\"x\":313,\"y\":340}],\"text\":\"CALZONES E\"},{\"boundingBox\":[{\"x\":426,\"y\":370},{\"x\":521,\"y\":376},{\"x\":520,\"y\":395},{\"x\":426,\"y\":390}],\"text\":\"SABOR ORIGINAL\"},{\"boundingBox\":[{\"x\":331,\"y\":351},{\"x\":368,\"y\":376},{\"x\":363,\"y\":385},{\"x\":326,\"y\":358}],\"text\":\"CAS DOCES\"},{\"boundingBox\":[{\"x\":418,\"y\":383},{\"x\":523,\"y\":392},{\"x\":521,\"y\":409},{\"x\":418,\"y\":403}],\"text\":\"EMBALAGEM ECONÓMICA\"}],\"words\":[{\"boundingBox\":[{\"x\":303,\"y\":21},{\"x\":392,\"y\":58},{\"x\":381,\"y\":85},{\"x\":292,\"y\":47}],\"text\":\"Pizzaria\"},{\"boundingBox\":[{\"x\":510,\"y\":133},{\"x\":488,\"y\":82},{\"x\":497,\"y\":76},{\"x\":519,\"y\":129}],\"text\":\"88-5090\"},{\"boundingBox\":[{\"x\":281,\"y\":47},{\"x\":406,\"y\":100},{\"x\":396,\"y\":126},{\"x\":270,\"y\":72}],\"text\":\"Ostentação\"},{\"boundingBox\":[{\"x\":277,\"y\":93},{\"x\":339,\"y\":121},{\"x\":329,\"y\":141},{\"x\":267,\"y\":113}],\"text\":\"Ostentar\"},{\"boundingBox\":[{\"x\":343,\"y\":122},{\"x\":353,\"y\":127},{\"x\":343,\"y\":147},{\"x\":333,\"y\":143}],\"text\":\"é\"},{\"boundingBox\":[{\"x\":357,\"y\":129},{\"x\":377,\"y\":137},{\"x\":367,\"y\":158},{\"x\":347,\"y\":149}],\"text\":\"se\"},{\"boundingBox\":[{\"x\":381,\"y\":139},{\"x\":459,\"y\":172},{\"x\":449,\"y\":194},{\"x\":371,\"y\":159}],\"text\":\"alimentar\"},{\"boundingBox\":[{\"x\":464,\"y\":174},{\"x\":476,\"y\":179},{\"x\":466,\"y\":202},{\"x\":453,\"y\":196}],\"text\":\"b\"},{\"boundingBox\":[{\"x\":392,\"y\":202},{\"x\":398,\"y\":205},{\"x\":393,\"y\":215},{\"x\":387,\"y\":212}],\"text\":\"ő\"},{\"boundingBox\":[{\"x\":404,\"y\":208},{\"x\":440,\"y\":226},{\"x\":434,\"y\":237},{\"x\":398,\"y\":218}],\"text\":\"@pizzari\"},{\"boundingBox\":[{\"x\":409,\"y\":232},{\"x\":421,\"y\":240},{\"x\":417,\"y\":247},{\"x\":405,\"y\":239}],\"text\":\"lada\"},{\"boundingBox\":[{\"x\":422,\"y\":240},{\"x\":426,\"y\":242},{\"x\":423,\"y\":249},{\"x\":419,\"y\":247}],\"text\":\"m\"},{\"boundingBox\":[{\"x\":343,\"y\":279},{\"x\":384,\"y\":296},{\"x\":377,\"y\":309},{\"x\":338,\"y\":292}],\"text\":\"Delivery\"},{\"boundingBox\":[{\"x\":273,\"y\":257},{\"x\":283,\"y\":263},{\"x\":274,\"y\":280},{\"x\":264,\"y\":274}],\"text\":\"®\"},{\"boundingBox\":[{\"x\":290,\"y\":266},{\"x\":397,\"y\":324},{\"x\":387,\"y\":341},{\"x\":281,\"y\":284}],\"text\":\"2788-5090\"},{\"boundingBox\":[{\"x\":419,\"y\":313},{\"x\":541,\"y\":340},{\"x\":529,\"y\":389},{\"x\":408,\"y\":359}],\"text\":\"Coca-Col\"},{\"boundingBox\":[{\"x\":271,\"y\":282},{\"x\":389,\"y\":348},{\"x\":380,\"y\":364},{\"x\":262,\"y\":299}],\"text\":\"993002-7489\"},{\"boundingBox\":[{\"x\":327,\"y\":337},{\"x\":357,\"y\":355},{\"x\":352,\"y\":364},{\"x\":322,\"y\":346}],\"text\":\"CALZONES\"},{\"boundingBox\":[{\"x\":358,\"y\":356},{\"x\":363,\"y\":359},{\"x\":359,\"y\":368},{\"x\":354,\"y\":365}],\"text\":\"E\"},{\"boundingBox\":[{\"x\":430,\"y\":371},{\"x\":464,\"y\":381},{\"x\":461,\"y\":392},{\"x\":426,\"y\":380}],\"text\":\"SABOR\"},{\"boundingBox\":[{\"x\":469,\"y\":382},{\"x\":521,\"y\":377},{\"x\":520,\"y\":388},{\"x\":467,\"y\":393}],\"text\":\"ORIGINAL\"},{\"boundingBox\":[{\"x\":331,\"y\":352},{\"x\":344,\"y\":360},{\"x\":340,\"y\":369},{\"x\":328,\"y\":360}],\"text\":\"CAS\"},{\"boundingBox\":[{\"x\":345,\"y\":361},{\"x\":366,\"y\":375},{\"x\":362,\"y\":384},{\"x\":342,\"y\":370}],\"text\":\"DOCES\"},{\"boundingBox\":[{\"x\":421,\"y\":384},{\"x\":468,\"y\":398},{\"x\":467,\"y\":408},{\"x\":418,\"y\":392}],\"text\":\"EMBALAGEM\"},{\"boundingBox\":[{\"x\":474,\"y\":399},{\"x\":521,\"y\":393},{\"x\":522,\"y\":401},{\"x\":473,\"y\":409}],\"text\":\"ECONÓMICA\"}]}"
+        ],
+        "imageTags": [
+          "food",
+          "fast food",
+          "soft drink",
+          "bottle",
+          "baked goods",
+          "drink",
+          "snack",
+          "pizza",
+          "indoor",
+          "pizza cheese",
+          "italian food"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"food\"],\"captions\":[{\"text\":\"pizzas and soda on a stove\",\"confidence\":0.39327350258827209}]}"
+        ]
+      }
+    ]
+  }
